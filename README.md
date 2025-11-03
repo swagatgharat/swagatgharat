@@ -56,10 +56,10 @@ I continuously refine my skills to stay aligned with emerging technologies and i
 ## 📊 GitHub Analytics
 
 ### 📊 GitHub Stats
-http://localhost:5173/api/stats
+http://localhost:5173/api/stats?username=swagatgharat
 
 ### 📈 Languages Overview
-http://localhost:5173/api/langs
+http://localhost:5173/api/langs?username=swagatgharat
 
 
 ---
