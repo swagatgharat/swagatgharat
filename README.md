@@ -56,12 +56,12 @@ I continuously refine my skills to stay aligned with emerging technologies and i
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://localhost:5173/api/stats?username=swagatgharat&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://localhost:5173/api/stats?username=swagatgharat" alt="GitHub stats" />
 </p>
 
 ### 📈 Languages Overview
 <p align="center">
-  <img src="https://localhost:5173/api/langs/?username=swagatgharat&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://localhost:5173/api/langs/?username=swagatgharat" alt="Top Languages" />
 </p>
 
 ---
