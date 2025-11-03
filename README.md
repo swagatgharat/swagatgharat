@@ -55,14 +55,12 @@ I continuously refine my skills to stay aligned with emerging technologies and i
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="http://localhost:5000/" alt="GitHub stats" />
-</p>
+### 📊 GitHub Stats
+http://localhost:5000/
 
 ### 📈 Languages Overview
-<p align="center">
-  <img src="http://localhost:5000/" alt="Top Languages" />
-</p>
+http://localhost:5000/
+
 
 ---
 
