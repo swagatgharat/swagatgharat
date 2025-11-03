@@ -56,10 +56,10 @@ I continuously refine my skills to stay aligned with emerging technologies and i
 ## 📊 GitHub Analytics
 
 ### 📊 GitHub Stats
-http://localhost:5173/
+http://localhost:5173/api/stats
 
 ### 📈 Languages Overview
-http://localhost:5173/
+http://localhost:5173/api/langs
 
 
 ---
