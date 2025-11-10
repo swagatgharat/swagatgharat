@@ -1,3 +1,3 @@
-[🚀 View my live GitHub dashboard](https://github-readme-profile-frontend.vercel.app)
-
-[![Live Dashboard](https://img.shields.io/badge/Dashboard-Live-brightgreen?style=for-the-badge)](https://github-readme-profile-frontend.vercel.app)
+<p align="center">
+  <img src="https://github-readme-profile-backend.vercel.app/api/svg?username=swagatgharat" alt="Swagat's GitHub Card" />
+</p>
