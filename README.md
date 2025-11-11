@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-profile-readme-one.vercel.app/api/svg?username=swagatgharat" alt="Swagat's GitHub Card" />
+  <img src="https://github-readme-profile-api.vercel.app/api/svg?username=swagatgharat" alt="Swagat's GitHub Card" />
 </p>
