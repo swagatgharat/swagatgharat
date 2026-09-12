@@ -1,0 +1,13 @@
+<svg width="370" height="583" viewBox="0 0 370 583"
+     xmlns="http://www.w3.org/2000/svg"
+     font-family="'Fira Code','SFMono-Regular',Consolas,monospace">
+  <style>
+    .line { fill: #7ee787; font-size: 12px; }
+    .dim  { fill: #6e7681; font-size: 11px; }
+  </style>
+  <rect x="0" y="0" width="370" height="583" fill="#0d1117" />
+  <text x="20" y="260" class="line">$ python scripts/prep_photo.py you.jpg</text>
+  <text x="20" y="284" class="line">$ python scripts/make_ascii_svg.py</text>
+  <text x="20" y="320" class="dim"># replaces this placeholder with your</text>
+  <text x="20" y="338" class="dim"># own self-typing ASCII portrait</text>
+</svg>

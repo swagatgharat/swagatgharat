@@ -1,0 +1,32 @@
+<svg width="490" height="260" viewBox="0 0 490 260"
+     xmlns="http://www.w3.org/2000/svg"
+     font-family="'Fira Code','SFMono-Regular',Consolas,monospace">
+  <style>
+    .key { fill: #58a6ff; font-size: 13px; font-weight: 600; }
+    .val { fill: #c9d1d9; font-size: 13px; }
+    .dot { }
+    .titletext { fill: #8b949e; font-size: 12px; }
+    .row { opacity: 0; transform: translateX(-8px);
+           animation: slide-in 0.35s ease-out forwards; }
+    @keyframes slide-in {
+      to { opacity: 1; transform: translateX(0); }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="489" height="259" rx="8"
+        fill="#0d1117" stroke="#30363d" />
+  <path d="M0.5,8.5 a8,8 0 0 1 8,-8 h473 a8,8 0 0 1 8,8 v21.5
+           h-489 z" fill="#161b22" />
+  <line x1="0.5" y1="30" x2="489.5" y2="30" stroke="#30363d" />
+  <circle class="dot" cx="20" cy="15.0" r="5" fill="#ff5f56" />
+  <circle class="dot" cx="38" cy="15.0" r="5" fill="#ffbd2e" />
+  <circle class="dot" cx="56" cy="15.0" r="5" fill="#27c93f" />
+  <text x="245.0" y="19.0" text-anchor="middle" class="titletext">swagat@github</text>
+  <g class="row" style="animation-delay:0.0s"><text x="18" y="50" class="key">OS</text><text x="110" y="50" class="val">MERN Stack</text></g>
+  <g class="row" style="animation-delay:0.09s"><text x="18" y="74" class="key">Host</text><text x="110" y="74" class="val">swagatgharat</text></g>
+  <g class="row" style="animation-delay:0.18s"><text x="18" y="98" class="key">Role</text><text x="110" y="98" class="val">Full-Stack MERN Developer</text></g>
+  <g class="row" style="animation-delay:0.27s"><text x="18" y="122" class="key">Now</text><text x="110" y="122" class="val">Open to junior / fresher roles</text></g>
+  <g class="row" style="animation-delay:0.36s"><text x="18" y="146" class="key">Prev</text><text x="110" y="146" class="val">Web Dev Intern @ Amdox Technologies</text></g>
+  <g class="row" style="animation-delay:0.45s"><text x="18" y="170" class="key">Stack</text><text x="110" y="170" class="val">React · Next.js · Node · Express · MongoDB</text></g>
+  <g class="row" style="animation-delay:0.54s"><text x="18" y="194" class="key">Tools</text><text x="110" y="194" class="val">Tailwind · JWT · BullMQ · Redis · Razorpay</text></g>
+  <g class="row" style="animation-delay:0.63s"><text x="18" y="218" class="key">Highlights</text><text x="110" y="218" class="val">Portfolio CMS · DDI Finance · Krix · Obsidian</text></g>
+</svg>
