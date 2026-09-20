@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:00ff9d&height=150&section=header&text=Swagat%20Gharat&fontSize=40&fontColor=ffffff&fontAlignY=62&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=~%2Fswagat+%24+Full-Stack+MERN+Developer;~%2Fswagat+%24+React+19+%7C+Next.js+16+%7C+Node.js+%7C+Express+5;~%2Fswagat+%24+Building+Secure%2C+Production-Grade+Web+Apps;~%2Fswagat+%24+Freelancer+%7C+Available+for+High-Impact+Roles" alt="Typing SVG" />
 </a>
 
@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://swagat-portfolio.onrender.com">
+  <a href="https://swagat-portfolio.onrender.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-swagat--portfolio.onrender.com-050a0e?style=for-the-badge&logo=render&logoColor=050a0e" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/swagat01">
+  <a href="https://linkedin.com/in/swagat01" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-swagat01-050a0e?style=for-the-badge&logo=linkedin&logoColor=050a0e" alt="LinkedIn" />
   </a>
-  <a href="mailto:swagat22gharat@gmail.com">
+  <a href="mailto:swagat22gharat@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-swagat22gharat%40gmail.com-050a0e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" />
   </a>
-  <a href="https://github.com/swagatgharat">
+  <a href="https://github.com/swagatgharat" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-swagatgharat-050a0e?style=for-the-badge&logo=github&logoColor=00cfff" alt="GitHub" />
   </a>
 </p>
@@ -137,7 +137,7 @@ A dynamic, production-grade developer Content Management System (CMS) featuring 
 | **Performance** | Automated 5-min keep-alive ping preventing Render instance sleep; sub-50ms API responses with Pino logging |
 | **Security** | Dual-token authentication (15m in-memory access token + 7d HTTP-only refresh cookie) with automatic Axios token refresh interceptors |
 | **Impact** | Complete zero-downtime content management eliminating static portfolio code editing |
-| **Repository** | [Live Site: swagat-portfolio.onrender.com](https://swagat-portfolio.onrender.com) · [GitHub: Private / Showcase](https://github.com/swagatgharat) |
+| **Repository** | <a href="https://swagat-portfolio.onrender.com" target="_blank" rel="noopener noreferrer">Live Site: swagat-portfolio.onrender.com</a> · <a href="https://github.com/swagatgharat" target="_blank" rel="noopener noreferrer">GitHub: Private / Showcase</a> |
 
 **Architectural Overview**:
 Engineered as a clean pnpm monorepo separating Next.js 16 App Router frontend from an Express 5 REST API backend. Features automated 90-day Gmail API OAuth token expiry checks, GitHub Personal Access Token alerts, and drag-and-drop project reordering with one-click repository sync.
@@ -159,7 +159,7 @@ A unified personal media tracking application built to track 6 media types (Anim
 | **Performance** | Instantaneous client state transitions powered by Zustand 5 and hover-overlay quick-access shortcuts |
 | **Security** | Dodo payment webhook signature validation, rate limiting, and encrypted user credentials |
 | **Impact** | Centralized fragmented tracking tools into a unified, visually polished hub |
-| **Repository** | [Live Demo: kokuyoobsidian.onrender.com](https://kokuyoobsidian.onrender.com) · [GitHub: Showcase-KokuyoObsidian](https://github.com/swagatgharat/Showcase-KokuyoObsidian) |
+| **Repository** | <a href="https://kokuyoobsidian.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo: kokuyoobsidian.onrender.com</a> · <a href="https://github.com/swagatgharat/Showcase-KokuyoObsidian" target="_blank" rel="noopener noreferrer">GitHub: Showcase-KokuyoObsidian</a> |
 
 **Architectural Overview**:
 Designed a cohesive dark aesthetic interface built using Claude and Cursor for rapid UI refinement. Implemented a 4-tier subscription billing UI with Razorpay integration, dynamic billing cycles, discount badges, and an admin analytics dashboard for catalog management.
@@ -181,7 +181,7 @@ Production-grade certificate verification system with role-based access for 4 us
 | **Performance** | Reduced manual certificate authenticity verification time by 40% with instant QR hash checks |
 | **Security** | Protected 6+ critical API routes with CSRF Double Cookie pattern, rate limiting, bcrypt OTP hashing, and ownership middleware |
 | **Impact** | Tamper-proof digital credential generation with automated 2FA OTP verification and JWT silent refresh flow |
-| **Repository** | [Live Demo: certverify-verification-system.onrender.com](https://certverify-verification-system.onrender.com) · [GitHub: Showcase-Certificate-Verification-System](https://github.com/swagatgharat/Showcase-Certificate-Verification-System) |
+| **Repository** | <a href="https://certverify-verification-system.onrender.com" target="_blank" rel="noopener noreferrer">Live Demo: certverify-verification-system.onrender.com</a> · <a href="https://github.com/swagatgharat/Showcase-Certificate-Verification-System" target="_blank" rel="noopener noreferrer">GitHub: Showcase-Certificate-Verification-System</a> |
 
 **Architectural Overview**:
 Built a decoupled asynchronous certificate rendering worker using BullMQ and Upstash Redis. When an organization uploads recipient rosters, background workers generate personalized digital certificates, upload assets to ImageKit, and dispatch secure email delivery notifications via Nodemailer.
@@ -194,7 +194,7 @@ Built a decoupled asynchronous certificate rendering worker using BullMQ and Ups
 
 ### **Freelance Web Developer** · DDI Finance Pvt Ltd
 **Aug 2025 – Oct 2025 · Mumbai, Maharashtra**  
-*Website: [ddi-finance.com](https://ddi-finance.com)*
+*Website: <a href="https://ddi-finance.com" target="_blank" rel="noopener noreferrer">ddi-finance.com</a>*
 
 - Developed a responsive commercial website for an RBI-registered NBFC to showcase loan services and capture leads via an integrated application system.
 - Built interactive EMI calculators and dynamic loan modules, reducing manual operational effort by 60%.
@@ -233,16 +233,16 @@ Built a decoupled asynchronous certificate rendering worker using BullMQ and Ups
 ## 📜 Certifications
 
 ### IBM SkillsBuild & AICTE
-[![AICTE | IBM SkillsBuild - Data Analytics with AI](https://img.shields.io/badge/IBM%20SkillsBuild-Data%20Analytics%20with%20AI-052FAD?style=flat-square&logo=ibm&logoColor=white)](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Completion_Certificate___SkillsBuild_page-0001_S2kVui374.webp)
-[![Credential ID: PLAN-D44A9C2C463C](https://img.shields.io/badge/Credential%20ID-PLAN--D44A9C2C463C-050a0e?style=flat-square)](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Completion_Certificate___SkillsBuild_page-0001_S2kVui374.webp)
+<a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Completion_Certificate___SkillsBuild_page-0001_S2kVui374.webp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/IBM%20SkillsBuild-Data%20Analytics%20with%20AI-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="AICTE | IBM SkillsBuild - Data Analytics with AI" /></a>
+<a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Completion_Certificate___SkillsBuild_page-0001_S2kVui374.webp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Credential%20ID-PLAN--D44A9C2C463C-050a0e?style=flat-square" alt="Credential ID: PLAN-D44A9C2C463C" /></a>
 
 ### AMDOX Technologies
-[![Web Development Internship](https://img.shields.io/badge/AMDOX%20Technologies-Web%20Development%20Internship-050a0e?style=flat-square&logoColor=00ff9d)](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/certificate_page-0001_MUdiyVZdu6.webp)
-[![Credential ID: adx/WTd4WmNpMf](https://img.shields.io/badge/Credential%20ID-adx%2FWTd4WmNpMf-050a0e?style=flat-square)](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/certificate_page-0001_MUdiyVZdu6.webp)
+<a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/certificate_page-0001_MUdiyVZdu6.webp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AMDOX%20Technologies-Web%20Development%20Internship-050a0e?style=flat-square&logoColor=00ff9d" alt="Web Development Internship" /></a>
+<a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/certificate_page-0001_MUdiyVZdu6.webp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Credential%20ID-adx%2FWTd4WmNpMf-050a0e?style=flat-square" alt="Credential ID: adx/WTd4WmNpMf" /></a>
 
 ### SWAYAM / Dibrugarh University
-[![Programming in Python](https://img.shields.io/badge/SWAYAM-Programming%20in%20Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Programming_in_Python_page-0001_nG_Nwugqa.webp)
-[![Credential ID: MR16073377](https://img.shields.io/badge/Credential%20ID-MR16073377-050a0e?style=flat-square)](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Programming_in_Python_page-0001_nG_Nwugqa.webp)
+<a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Programming_in_Python_page-0001_nG_Nwugqa.webp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SWAYAM-Programming%20in%20Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Programming in Python" /></a>
+<a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Programming_in_Python_page-0001_nG_Nwugqa.webp" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Credential%20ID-MR16073377-050a0e?style=flat-square" alt="Credential ID: MR16073377" /></a>
 
 <br/>
 
@@ -250,9 +250,9 @@ Built a decoupled asynchronous certificate rendering worker using BullMQ and Ups
 
 | Credential | Issuing Organization | Type | Verification Link |
 |:---|:---|:---|:---|
-| **AICTE \| IBM SkillsBuild Academic Internship**<br/><sub>Data Analytics with AI · BharatCares</sub> | **IBM SkillsBuild / BharatCares** | Academic Internship | [`PLAN-D44A9C2C463C`](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Completion_Certificate___SkillsBuild_page-0001_S2kVui374.webp) |
-| **Web Development Internship**<br/><sub>Full-Stack Engineering (React · Node.js · Express)</sub> | **AMDOX Technologies** | Internship | [`adx/WTd4WmNpMf`](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/certificate_page-0001_MUdiyVZdu6.webp) |
-| **Programming in Python**<br/><sub>Dibrugarh University · CEC</sub> | **SWAYAM** | Course Certification | [`MR16073377`](https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Programming_in_Python_page-0001_nG_Nwugqa.webp) |
+| **AICTE \| IBM SkillsBuild Academic Internship**<br/><sub>Data Analytics with AI · BharatCares</sub> | **IBM SkillsBuild / BharatCares** | Academic Internship | <a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Completion_Certificate___SkillsBuild_page-0001_S2kVui374.webp" target="_blank" rel="noopener noreferrer"><code>PLAN-D44A9C2C463C</code></a> |
+| **Web Development Internship**<br/><sub>Full-Stack Engineering (React · Node.js · Express)</sub> | **AMDOX Technologies** | Internship | <a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/certificate_page-0001_MUdiyVZdu6.webp" target="_blank" rel="noopener noreferrer"><code>adx/WTd4WmNpMf</code></a> |
+| **Programming in Python**<br/><sub>Dibrugarh University · CEC</sub> | **SWAYAM** | Course Certification | <a href="https://ik.imagekit.io/wvmdr5hhm/vibe-coder/certificates/Programming_in_Python_page-0001_nG_Nwugqa.webp" target="_blank" rel="noopener noreferrer"><code>MR16073377</code></a> |
 
 </div>
 
@@ -300,19 +300,19 @@ current_focus:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://swagat-portfolio.onrender.com">
+  <a href="https://swagat-portfolio.onrender.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-swagat--portfolio.onrender.com-050a0e?style=for-the-badge&logo=render&logoColor=050a0e" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/swagat01">
+  <a href="https://linkedin.com/in/swagat01" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-swagat01-050a0e?style=for-the-badge&logo=linkedin&logoColor=050a0e" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:swagat22gharat@gmail.com">
+  <a href="mailto:swagat22gharat@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-swagat22gharat%40gmail.com-050a0e?style=for-the-badge&logo=gmail&logoColor=00ff9d" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/swagatgharat">
+  <a href="https://github.com/swagatgharat" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-swagatgharat-050a0e?style=for-the-badge&logo=github&logoColor=00cfff" alt="GitHub" />
   </a>
 </p>
