@@ -269,7 +269,7 @@ Built a decoupled asynchronous certificate rendering worker using BullMQ and Ups
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/swagatgharat/swagatgharat/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 
 ---
